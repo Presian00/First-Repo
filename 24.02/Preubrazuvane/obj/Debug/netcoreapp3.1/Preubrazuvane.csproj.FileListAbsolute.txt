@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\bin\Debug\netcoreapp3.1\Preubrazuvane.exe
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\bin\Debug\netcoreapp3.1\Preubrazuvane.deps.json
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\bin\Debug\netcoreapp3.1\Preubrazuvane.runtimeconfig.json
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\bin\Debug\netcoreapp3.1\Preubrazuvane.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\bin\Debug\netcoreapp3.1\Preubrazuvane.dll
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\bin\Debug\netcoreapp3.1\Preubrazuvane.pdb
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\obj\Debug\netcoreapp3.1\Preubrazuvane.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\obj\Debug\netcoreapp3.1\Preubrazuvane.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\obj\Debug\netcoreapp3.1\Preubrazuvane.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\obj\Debug\netcoreapp3.1\Preubrazuvane.dll
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\obj\Debug\netcoreapp3.1\Preubrazuvane.pdb
+C:\Users\User\OneDrive\Документи\9a programirane\Preubrazuvane\Preubrazuvane\obj\Debug\netcoreapp3.1\Preubrazuvane.genruntimeconfig.cache
